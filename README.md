@@ -7,8 +7,8 @@
    - Create an account OR Access an existing account
    - Login / Logout
    - Users will be able to create notes with some content
-   -Each notes can be  uploaded file as an attachment 
-   -Allow users to edit their uploaded notes/ documents 
+   - Each notes can be  uploaded file as an attachment 
+   - Allow users to edit their uploaded notes/ documents 
    - Users can save the  data / documents 
    - Users can also delete their notes / documents
   #### Future Features:  
