@@ -1,4 +1,4 @@
-# Captone-MVp
+# Note App
 # Pitch/Idea:   
   Creating a web application called note taking app,that allows  User to be able to create notes  with some content.  
   It is a  CRUD application,going to address the following requirements. 
