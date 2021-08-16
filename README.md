@@ -11,7 +11,7 @@
    - Allow users to edit their uploaded notes/ documents 
    - Users can save the  data / documents 
    - Users can also delete their notes / documents
-  ####USER EXPERIENCE:
+  #### USER EXPERIENCE:
   - Users can create an account
   - Users can log in
   - Users can log out
